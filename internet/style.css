@@ -1,0 +1,87 @@
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+   }
+#opener img {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    position: absolute;
+
+}
+
+#header {
+    display: inline-block;
+    vertical-align: text-bottom;
+    margin: 25px 0px 0px 80px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 18px;
+}
+
+.titleBox {
+    background: linear-gradient(rgb(85, 77, 192), rgb(211, 203, 203));
+    width: 950px;
+    height: 40px;
+    padding: 20px 0px 0px 0px;
+    text-indent: 25px;
+    color: white;
+    
+}
+
+#watch {
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 12px;
+    position: absolute;
+    
+}
+
+#button {
+    background-color: blue; 
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin: 10px 100px 0px 0px;
+    border-radius: 5px;
+    padding-left: 0px;
+    text-align: center;
+}
+
+#button2 {
+    background-color: green; 
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin: 10px 100px 0px 0px;
+    border-radius: 5px;
+    padding-left: 0px;
+    text-align: center;
+
+}
+
+ .base  {
+    width: 100px;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+    margin: 0px 0px 0px 0px;
+  
+    
+   }
+
+   .ninja  {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    margin: 50px 0px 0px 0px;
+    padding-right: 200px;
+    
+    
+    
+
+   }

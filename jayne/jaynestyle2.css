@@ -1,0 +1,173 @@
+
+*
+
+  #everything {  
+    
+    width: 975px;
+    height: 64px;
+    background-color: lightgray;
+    color: rgb(39, 37, 37);
+    display: inline-block;
+    padding-bottom: 15px;
+    text-align: center;
+    
+    
+  }
+
+  #everything h1 {
+      text-align: "right";
+      display: inline-block;
+      font-family: "Comic Sans MS", sans-serif;
+      
+  
+     
+  }
+  #everything h2 {
+        text-align: right;
+        display: inline-block;
+        margin-left: 460px;
+        font-family: Tahoma, Geneva, sans-serif;
+        font-size: 18px;
+        
+      
+        
+  }
+
+   #wrapper{
+    width: 975px;
+    height: 970px;
+    background: radial-gradient(rgb(124, 95, 124), black);
+    
+   }
+    
+   #header{
+    height: 305px;
+    width: 425px;
+    display: inline-block;
+    margin: 20px 0px 0px 20px;
+    
+ }
+   #header img {
+    width: 410px;
+    height: 275px;
+    border: 5px grey solid;
+    display: inline-block;
+    position: absolute;
+
+   }
+
+   #aboutBox {
+    display: inline-block;
+    height: 230px;
+    width: 480px;
+    background-color:lightgray;
+    position: absolute;
+    margin: 45px 0px 0px 450px;
+    padding: 5px;
+    
+   }
+   .titleBox {
+    height: 45px;
+    width: 480px;
+    background: linear-gradient(rgb(124, 95, 124), rgb(211, 203, 203));
+    position: absolute;
+    margin: 0px 0px 0px 450px;
+    padding: 5px;
+    color: aliceblue;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+    .label {
+    height: 45px;
+    width: 290px;
+    background: linear-gradient(rgb(124, 95, 124), rgb(211, 203, 203));
+    position: relative;
+    margin: 0px 0px 0px 25px;
+    display: inline-block;
+    color: white
+   
+}
+   .subcontents { 
+    height: 315px;
+    width: 290px;
+    background-color:lightgray;
+    display: inline-block;
+    margin: 0px 0px 0px 25px;
+    vertical-align: top;
+    
+   
+   }
+
+   .pic img {
+    width: 290px;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+    margin: 0px 0px 0px 0px;
+    
+
+   }
+   .tech {
+    height: 50px;
+    width: 290px;
+    background: linear-gradient(rgb(124, 95, 124), rgb(211, 203, 203));
+    position: relative;
+    margin: 10px 0px 0px 25px;
+    display: inline-block;
+    color: aliceblue
+    
+    
+}
+   .subcontents2 { 
+    height: 165px;
+    width: 290px;
+    background-color:lightgray;
+    display: inline-block;
+    margin: 0px 0px 0px 25px;
+    position: relative;
+    padding-bottom: 5px;
+    vertical-align: top;
+   
+   }
+
+ .subcontents2 img{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    vertical-align: top;
+    
+
+
+
+ } 
+.footer {
+    height: 85px;
+    width: 975px;
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    position: absolute;
+    margin: 25px 0px 0px 0px;
+   
+}
+
+.footer img {
+    height: 15px;
+    width: 15px;
+
+
+}
+
+
+
+.button {
+    background-color: #4CAF50; 
+    border: 30px black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    vertical-align: bottom;
+    width: 45px;
+    font-size: 16px;
+    margin: 30px 0px 0px 75px;
+    border-radius: 5px;
+}
